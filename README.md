@@ -1,2 +1,2 @@
 # Terrain
-A repo with any different terrain generators
+A repo with many different terrain generators
